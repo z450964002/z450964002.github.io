@@ -28,7 +28,7 @@ image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.JPG
  　1. \:q! 是直接退出不会保存。
 　 2. \:wq 是保存后退出。
 +++++++++++++++++++
-
+>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus
 
 
 
@@ -242,3 +242,8 @@ ce 不仅是更改，而且还进入了插入模式
   + :help加回车　可以获取帮助信息。
   + ctrl—w 可以再窗口之间跳转。
 
+>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus
+>
+> - Apple
+> - Banana
+> - Plum

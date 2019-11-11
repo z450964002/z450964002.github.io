@@ -8,9 +8,9 @@ title: "赵铁刚"
 description: > # this means to ignore newlines until "email:"
    一个菜鸟的成长日记
 
-email: a-mail@mail.mail
+email: 450964002@qq.com
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "/assets/images/dflogo.jpg"
 float_logo: true # true, false (default)
 
 # blog cover

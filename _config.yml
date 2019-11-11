@@ -32,11 +32,8 @@ paginate:	５
 # social icons and sharing options
 social:
   - icon:	qq空间
-    url:	https://twitter.com/dirkfabisch
-    desc: Follow me on twitter
-    share_url: http://twitter.com/share
-    share_title: ?text=
-    share_link: "&amp;url="
+    url:	https://user.qzone.qq.com/450964002
+    desc: 我的ｑｑ空间
 
 #  - icon:	facebook
 #    url:	https://facebook.com/???

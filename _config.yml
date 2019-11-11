@@ -16,16 +16,13 @@ float_logo: true # true, false (default)
 # blog cover
 cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_asdfgt.jpg"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
+name: '赵铁刚'
+author: '赵铁刚'
 author_image: "/assets/images/author.jpg"
 
-paginate:	5
+paginate:	５
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
-baseurl: ""
-#used to display twitter cards
-twitter_handle: '@dirkfabisch'
+
 
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
@@ -34,7 +31,7 @@ twitter_handle: '@dirkfabisch'
 
 # social icons and sharing options
 social:
-  - icon:	twitter
+  - icon:	qq空间
     url:	https://twitter.com/dirkfabisch
     desc: Follow me on twitter
     share_url: http://twitter.com/share
@@ -49,8 +46,8 @@ social:
 #    share_link: "&amp;u="
 
   - icon:	github
-    url:	https://github.com/dirkfabisch
-    desc:	Fork me on github
+    url:	https://github.com/z450964002
+    desc:	点赞～～～
     share_url:
     share_title:
     share_link:
